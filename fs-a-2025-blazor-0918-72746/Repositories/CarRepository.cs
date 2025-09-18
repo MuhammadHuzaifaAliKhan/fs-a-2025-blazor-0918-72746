@@ -1,9 +1,8 @@
-﻿namespace fs_a_2025_blazor_0918_72746.Repositories
-{
-    using System;
-    using System.Collections.Generic;
-    using FleetManager.Models;
+﻿using fs_a_2025_blazor_0918_72746.Models;
+using fs_a_2025_blazor_0918_72746.Models;
 
+namespace fs_a_2025_blazor_0918_72746.Repositories
+{
     public class CarRepository
     {
         private readonly List<Car> _cars;

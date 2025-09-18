@@ -1,4 +1,4 @@
-﻿namespace FleetManager.Models
+﻿namespace fs_a_2025_blazor_0918_72746.Models
 {
     public class Car
     {
